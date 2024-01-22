@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.header {
+    padding: 30px;
+    font-family: "Courier New";
+    font-style: bold;
+    font-size: 2em;
+    background-color: aliceblue;
+}
+
+body {
+
+}
+
+.main {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans';
+    background-color: lightblue
+}
+
+.footer {
+    font-family: "Times New Roman";
+    padding: 10px;
+    text-align: center;
+    background-color: lightblue;
+}
