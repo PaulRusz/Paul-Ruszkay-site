@@ -30,3 +30,7 @@ body {
     text-align: center;
     background-color: lightblue;
 }
+
+#id {
+    font-size: 20px;
+}
